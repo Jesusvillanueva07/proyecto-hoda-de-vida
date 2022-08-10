@@ -11,7 +11,7 @@
 - Direccion: calle 17 #16-34
 ----
 ## Perfil profesional.
-bueno me considero una persona responsable que cumple con los compromisos que se le asignen, me desenvuelvo bien en mi ambiente de trabjo me se llevar bien con mis compañeros de trabjo, soy una persona creativa y puntual. soy tecnico en procesos logisticos y actualmente me enctuentro realizando formacion con el sena en ADSO
+bueno me considero una persona responsable que cumple con los compromisos que se le asignen, me desenvuelvo bien en mi ambiente de trabajo, me se llevar bien con mis compañeros, soy una persona creativa y puntual. soy tecnico en procesos logisticos y actualmente me enctuentro realizando formacion con el sena en ADSO
 ----
 ## formacion academica.
 - institucion educativa distrital san gabriel: Bachillerato 2021
